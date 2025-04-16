@@ -1,0 +1,13 @@
+/home/crapeter/OS_Proj/build/CMakeFiles/OS_Proj.dir
+/home/crapeter/OS_Proj/build/CMakeFiles/edit_cache.dir
+/home/crapeter/OS_Proj/build/CMakeFiles/rebuild_cache.dir
+/home/crapeter/OS_Proj/build/CMakeFiles/list_install_components.dir
+/home/crapeter/OS_Proj/build/CMakeFiles/install.dir
+/home/crapeter/OS_Proj/build/CMakeFiles/install/local.dir
+/home/crapeter/OS_Proj/build/CMakeFiles/install/strip.dir
+/home/crapeter/OS_Proj/build/_deps/scheduling-build/CMakeFiles/edit_cache.dir
+/home/crapeter/OS_Proj/build/_deps/scheduling-build/CMakeFiles/rebuild_cache.dir
+/home/crapeter/OS_Proj/build/_deps/scheduling-build/CMakeFiles/list_install_components.dir
+/home/crapeter/OS_Proj/build/_deps/scheduling-build/CMakeFiles/install.dir
+/home/crapeter/OS_Proj/build/_deps/scheduling-build/CMakeFiles/install/local.dir
+/home/crapeter/OS_Proj/build/_deps/scheduling-build/CMakeFiles/install/strip.dir

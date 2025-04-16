@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/OS_Proj.dir/main.cpp.o -o OS_Proj 
